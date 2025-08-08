@@ -34,7 +34,7 @@ Acredito que o sucesso se constrói com prática, troca de experiências e desaf
 
 ## 📈 Objetivo
 
-Meu foco atual é aprender na prática, desenvolver projetos e me preparar para entrar no mercado de trabalho como desenvolvedora ou estagiária em análise de dados, sistemas e tecnologia em geral.
+Meu foco atual é aprender na prática, desenvolver projetos e me preparar para entrar no mercado de trabalho em análise de dados, sistemas e tecnologia em geral.
 
 ---
 
