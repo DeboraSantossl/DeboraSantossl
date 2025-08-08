@@ -1,12 +1,5 @@
 ## Hello, guys 👋
 
--   :video_game: I am working as ** **
--   :monocle_face: Interested in everything ** **
--   :seedling: Currently learning ** **
--   :heart: Open Source Software
--   :penguin: ** ** ...
-
-<!--
 **DeboraSantossl/DeboraSantossl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
