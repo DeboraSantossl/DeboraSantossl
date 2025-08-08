@@ -15,7 +15,7 @@ Acredito que o sucesso se constrói com prática, troca de experiências e desaf
 
 ---
 
-## 💻 O que você vai no meu GitHub!
+## 💻 O que você vai ver no meu GitHub!
 
 - Projetos práticos desenvolvidos durante os estudos
 - Exercícios de lógica de programação
