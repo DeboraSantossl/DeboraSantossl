@@ -1,10 +1,10 @@
 ## Hello, guys 👋
 
--   :video_game: I am working as **Principle DevOps Engineer**
--   :monocle_face: Interested in everything **Cloud Native**
--   :seedling: Currently learning **Golang**
+-   :video_game: I am working as ** **
+-   :monocle_face: Interested in everything ** **
+-   :seedling: Currently learning ** **
 -   :heart: Open Source Software
--   :penguin: **Linux** ... it does infinite loops in 5 seconds..
+-   :penguin: ** ** ...
 
 <!--
 **DeboraSantossl/DeboraSantossl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
