@@ -26,7 +26,7 @@ Acredito que o sucesso se constrói com prática, troca de experiências e desaf
 
 ## 🛠️ Tecnologias que estou aprendendo
 
-- **Linguagens**: HTML5, C
+- **Linguagens**: HTML, C#
 - **Ferramentas**: Git, GitHub, VS Code
 - **Outros interesses**: Banco de Dados, Ciencia da Computação, Programação, Desenvolvimento Web
 
