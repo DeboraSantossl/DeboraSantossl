@@ -1,6 +1,7 @@
 # 👋 Olá! Eu sou a Débora
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** e formada em **Logística**
+
 🌱 Em constante aprendizado e apaixonada em aprender algo novo  
 📚 Explorando o mundo da programação e desenvolvimento de sistemas  
 🚀 Buscando minha primeira oportunidade na área tecnológica
