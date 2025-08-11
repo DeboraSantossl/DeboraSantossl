@@ -1,9 +1,9 @@
 # 👋 Olá! Eu sou a Débora
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-🌱 Em constante aprendizado e apaixonada pelo universo tecnologico  
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas** e formada em *Logística*
+🌱 Em constante aprendizado e apaixonada em aprender algo novo  
 📚 Explorando o mundo da programação e desenvolvimento de sistemas  
-🚀 Buscando minha primeira oportunidade na área de TI
+🚀 Buscando minha primeira oportunidade na área tecnológica
 
 ---
 
@@ -11,7 +11,7 @@
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e estou dando meus primeiros passos no mundo da tecnologia com muita dedicação, curiosidade e vontade de aprender.
 
-Acredito que o sucesso se constrói com prática, troca de experiências e desafios. Por isso, venho conhecendo e explorando ferramentas que fazem parte do dia a dia de um desenvolvedor.
+Acredito que o sucesso se constrói com prática, troca de experiências e desafios. Por isso, venho conhecendo e explorando ferramentas que fazem parte do dia a dia de um desenvolvedor/programador.
 
 ---
 
@@ -38,7 +38,7 @@ Meu foco atual é aprender na prática, desenvolver projetos e me preparar para 
 
 ---
 
-## 📫 Como falar comigo
+## 📫 Como falar comigo (aceito feedbacks)
 
 - ✉️ Email: deborasantossl25@gmail.com  
 - 💼 LinkedIn: www.linkedin.com/in/débora-santos-83803b240  
