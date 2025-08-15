@@ -26,10 +26,11 @@ Acredito que o sucesso se constrói com prática, troca de experiências e desaf
 
 ## 🛠️ Tecnologias que estou aprendendo
 
-- **Linguagens**: HTML, C#
+- **Linguagens**: HTML
 - **Ferramentas**: Git, GitHub, VS Code
 - **Outros interesses**: Banco de Dados, Ciencia da Computação, Programação, Desenvolvimento Web
-
+- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 📈 Objetivo
