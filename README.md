@@ -1,4 +1,4 @@
-# 👋 Oiee, eu sou a Débora!!!
+## Débora Santos
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** e formada em **Logística**                                       
 🌱 Em constante aprendizado e apaixonada em aprender algo novo  
