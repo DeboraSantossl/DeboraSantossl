@@ -1,6 +1,6 @@
 ## 👩🏻‍💻 Débora Santos
 
-- Me chamo Débora, tenho 24 anos, resido em Diadema/SP.
+- Me chamo Débora, tenho 24 anos, resido em São Paulo.
 - Estudante de Análise e Desenvolvimento de Sistemas e formada em logística.
 
 ✨Meu objetivo é aprender mais sobre o universo da tecnologia, desenvolver projetos e entrar no mercado de trabalho com foco em análise de dados e sistemas.
