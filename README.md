@@ -1,8 +1,9 @@
 ## 👩🏻‍💻 Débora Santos
 
- Me chamo Débora, tenho 24 anos, sou estudante de Análise e Desenvolvimento de Sistemas e formada em logística. Atualmente estou aprendendo sobre HTML, CSS e JavaScript, por meio do estudo de Desenvolvimeno de Front-End e Ciência da Computção (CS50), aprendendo e explorando ferramentas que fazem parte do dia a dia de um desenvolvedor e programador.
+- Me chamo Débora, tenho 24 anos, resido em Diadema/SP.
+- Estudante de Análise e Desenvolvimento de Sistemas e formada em logística.
 
-✨Meu objetivo é desenvolver projetos e entrar no mercado de trabalho com foco em análise de dados e sistemas.
+✨Meu objetivo é aprender mais sobre o universo da tecnologia, desenvolver projetos e entrar no mercado de trabalho com foco em análise de dados e sistemas.
 
 ## 📊Estatísticas
 
