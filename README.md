@@ -15,7 +15,6 @@
 - Repositórios de aprendizado com HTML, CSS e JavaScript.
 - Cursos de Desenvolvimento de Front-End e Ciência da Computação (CS50)
 - Exercícios de lógica de programação
----
 
 ## 📫 Contatos (aceito feedbacks)
 
