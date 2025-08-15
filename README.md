@@ -1,55 +1,30 @@
-## Débora Santos
+## 👩🏻‍💻 Débora Santos
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** e formada em **Logística**                                       
-🌱 Em constante aprendizado e apaixonada em aprender algo novo  
-📚 Explorando o mundo da programação e desenvolvimento de sistemas  
-🚀 Buscando minha primeira oportunidade na área tecnológica
+ Me chamo Débora, tenho 24 anos, sou estudante de Análise e Desenvolvimento de Sistemas e formada em logística. Atualmente estou aprendendo sobre HTML, CSS e JavaScript, por meio do estudo de Desenvolvimeno de Front-End e Ciência da Computção (CS50), aprendendo e explorando ferramentas que fazem parte do dia a dia de um desenvolvedor e programador.
 
----
+✨Meu objetivo é desenvolver projetos e entrar no mercado de trabalho com foco em análise de dados e sistemas.
 
-## ✨ Sobre Mim
+## 📊Estatísticas
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e estou dando meus primeiros passos no mundo da tecnologia com muita dedicação, curiosidade e vontade de aprender.
+> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deborasantossl&show_icons=true&theme=blue_navy )
+ ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=deborasantossl&layout=compact&theme=dracula)
 
-Acredito que o sucesso se constrói com prática, troca de experiências e desafios. Por isso, venho conhecendo e explorando ferramentas que fazem parte do dia a dia de um desenvolvedor/programador.
 
----
+## 💻 Tecnologias e Linguagens que estou aprendendo
 
-## 💻 O que você vai ver no meu GitHub!
-
-- Projetos práticos desenvolvidos durante os estudos
+- Repositórios de aprendizado com HTML, CSS e JavaScript.
+- Cursos de Desenvolvimento de Front-End e Ciência da Computação (CS50)
 - Exercícios de lógica de programação
-- Atividades da faculdade e cursos complementares
-- Repositórios de aprendizado com HTML, CSS, JavaScript, Python e mais
-
 ---
 
-## 🛠️ Tecnologias que estou aprendendo
-
-- **Linguagens**: HTML
-- **Ferramentas**: Git, GitHub, VS Code
-- **Outros interesses**: Banco de Dados, Ciencia da Computação, Programação, Desenvolvimento Web
-- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
----
-
-## 📈 Objetivo
-
-Meu foco atual é aprender na prática, desenvolver projetos e me preparar para entrar no mercado de trabalho em análise de dados, sistemas e tecnologia em geral.
-
----
-
-## 📫 Como falar comigo (aceito feedbacks)
+## 📫 Contatos (aceito feedbacks)
 
 - ✉️ Email: deborasantossl25@gmail.com  
 - 💼 LinkedIn: www.linkedin.com/in/débora-santos-83803b240  
-- 💻 Portfólio (em breve!)
-
+- 📲 Celular (whatsapp): (011)968097795
 ---
 
 > "Dê o primeiro passo para aprender algo novo."
+> - Obrigada por visitar o meu perfil!
 
----
-
-Obrigada por visitar meu perfil! 💙
 
