@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou a Débora
+# 👋 Oiee, eu sou a Débora!!!
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** e formada em **Logística**                                       
 🌱 Em constante aprendizado e apaixonada em aprender algo novo  
