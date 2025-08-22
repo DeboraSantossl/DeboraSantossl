@@ -7,9 +7,12 @@
 
 ## 📊Estatísticas
 
-> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deborasantossl&show_icons=true&theme=blue_navy )
- ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=deborasantossl&layout=compact&theme=blue_navy)
+<div align="left">
 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=deborasantossl&show_icons=true&theme=blue_navy" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deborasantossl&layout=compact&theme=blue_navy" />
+
+</div>
 
 ## 💻 Tecnologias e Linguagens que estou aprendendo
 
